@@ -1,2 +1,2 @@
 # git-checkout--b-test-badge
-fun stuff
+fun stuff :D
